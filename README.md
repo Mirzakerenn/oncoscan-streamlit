@@ -104,15 +104,11 @@ oncoscan-streamlit/
     └── config.toml         # Tema aplikasi
 ```
 
-## Tim
+## Pembuat
 
-**Kelompok 4** · Teknik Informatika · Universitas Pamulang
+**Mirza Suria Sahir** · NIM 241011400498 · Teknik Informatika, Universitas Pamulang
 
-| Nama | NIM |
-|---|---|
-| Mirza Suria Sahir | 241011400498 |
-| Daffa Ihsan | _isi NIM_ |
-| Ganjar Nopandi | _isi NIM_ |
+[![GitHub](https://img.shields.io/badge/GitHub-Mirzakerenn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mirzakerenn)
 
 ---
 
