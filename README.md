@@ -21,7 +21,6 @@
 
 **OncoScan** adalah aplikasi web interaktif untuk memprediksi apakah sebuah tumor payudara bersifat **ganas (malignant)** atau **jinak (benign)** berdasarkan 10 fitur hasil pengukuran inti sel. Model dilatih pada dataset *Breast Cancer Wisconsin (Diagnostic)* dan dibungkus dalam antarmuka bergaya Apple yang bersih, responsif, dan beranimasi.
 
-Proyek ini dibuat sebagai tugas praktikum Machine Learning, Teknik Informatika, Universitas Pamulang.
 
 > **Catatan:** aplikasi ini untuk tujuan **edukasi**, bukan alat diagnosis medis.
 
