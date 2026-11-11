@@ -1,0 +1,9 @@
+@"
+env/
+__pycache__/
+*.pyc
+.vscode/
+*.zip
+"@ | Set-Content -Encoding ascii .gitignore
+git add .
+git status

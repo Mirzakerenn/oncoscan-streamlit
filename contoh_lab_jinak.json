@@ -1,0 +1,14 @@
+[
+  {
+    "mean radius":13.03,
+    "mean texture":18.42,
+    "mean perimeter":82.61,
+    "mean area":523.8,
+    "mean smoothness":0.08983,
+    "mean compactness":0.03766,
+    "mean concavity":0.02562,
+    "mean concave points":0.02923,
+    "mean symmetry":0.1467,
+    "mean fractal dimension":0.05863
+  }
+]
